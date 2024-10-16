@@ -9,7 +9,8 @@ class MultipleChoiceQuestion(BaseModel):
     text: str
     options: list[QuestionOption]
     correct_answer: str
+    tip: str
 
-class CompleteTest(BaseModel):
+class CompletTest(BaseModel):
     questions: list[MultipleChoiceQuestion]
     

@@ -1,0 +1,1622 @@
+[
+    {
+        "text": "Em um triângulo retângulo, o ângulo θ é agudo e sen θ = 3/5. Quais são os valores de cos θ e tg θ, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "4/5 e 3/4"
+            },
+            {
+                "label": "B)",
+                "value": "5/4 e 3/4"
+            },
+            {
+                "label": "C)",
+                "value": "3/4 e 4/3"
+            },
+            {
+                "label": "D)",
+                "value": "4/3 e 5/3"
+            },
+            {
+                "label": "E)",
+                "value": "3/5 e 4/5"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Use a identidade trigonométrica sin²θ + cos²θ = 1 para encontrar cos θ."
+    },
+    {
+        "text": "Considerando um triângulo retângulo, onde θ é um ângulo agudo e tg θ = 7/24. Quais são os valores de sen θ e cos θ, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "7/25 e 24/25"
+            },
+            {
+                "label": "B)",
+                "value": "25/24 e 7/25"
+            },
+            {
+                "label": "C)",
+                "value": "24/25 e 7/25"
+            },
+            {
+                "label": "D)",
+                "value": "24/25 e 25/7"
+            },
+            {
+                "label": "E)",
+                "value": "7/24 e 1"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Use o teorema de Pitágoras em um triângulo com catetos 7 e 24 para encontrar a hipotenusa."
+    },
+    {
+        "text": "Em um triângulo retângulo, x é um ângulo agudo tal que sen x = 5/13. Quais são os valores de cos x e tg x, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "5/12 e 13/12"
+            },
+            {
+                "label": "B)",
+                "value": "12/13 e 5/12"
+            },
+            {
+                "label": "C)",
+                "value": "12/5 e 13/5"
+            },
+            {
+                "label": "D)",
+                "value": "5/13 e 12/13"
+            },
+            {
+                "label": "E)",
+                "value": "5/13 e 13/5"
+            }
+        ],
+        "correct_answer": "B)",
+        "tip": "Construa um triângulo utilizando os comprimentos dados e encontre o cateto adjacente usando o teorema de Pitágoras."
+    },
+    {
+        "text": "Sabendo que em um triângulo retângulo o ângulo θ satisfaz cos θ = 8/17. Quais são os valores de sen θ e tg θ, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "15/17 e 8/15"
+            },
+            {
+                "label": "B)",
+                "value": "17/15 e 15/8"
+            },
+            {
+                "label": "C)",
+                "value": "8/15 e 17/8"
+            },
+            {
+                "label": "D)",
+                "value": "8/17 e 15/8"
+            },
+            {
+                "label": "E)",
+                "value": "15/8 e 17"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "A hipotenusa é 17. Use o teorema de Pitágoras para achar o cateto oposto, que é 15."
+    },
+    {
+        "text": "No triângulo retângulo, θ é um ângulo agudo e sen θ = 9/41. Quais são os valores de cos θ e tg θ, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "40/41 e 9/40"
+            },
+            {
+                "label": "B)",
+                "value": "41/40 e 9/41"
+            },
+            {
+                "label": "C)",
+                "value": "40/9 e 41/9"
+            },
+            {
+                "label": "D)",
+                "value": "9/40 e 41/40"
+            },
+            {
+                "label": "E)",
+                "value": "9/41 e 40/41"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Construa um triângulo retângulo com catetos 9 e 40, e hipotenusa 41."
+    },
+    {
+        "text": "Em um triângulo retângulo, x é um ângulo agudo e tg x = 5/12. Quais são os valores de sen x e cos x, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "5/13 e 12/13"
+            },
+            {
+                "label": "B)",
+                "value": "12/13 e 5/13"
+            },
+            {
+                "label": "C)",
+                "value": "13/5 e 13/12"
+            },
+            {
+                "label": "D)",
+                "value": "5/12 e 5/13"
+            },
+            {
+                "label": "E)",
+                "value": "12/5 e 13"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Use a relação entre os catetos e a hipotenusa de um triângulo retângulo para achar os valores."
+    },
+    {
+        "text": "Em um triângulo retângulo, θ é um ângulo agudo com cos θ = 6/10. Quais são os valores de sen θ e tg θ, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "4/5 e 3/4"
+            },
+            {
+                "label": "B)",
+                "value": "3/5 e 4/3"
+            },
+            {
+                "label": "C)",
+                "value": "8/10 e 6/8"
+            },
+            {
+                "label": "D)",
+                "value": "8/10 e 6/8"
+            },
+            {
+                "label": "E)",
+                "value": "4/10 e 5/6"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Você pode simplificar a fração 6/10 antes de aplicar as identidades trigonométricas."
+    },
+    {
+        "text": "Considerando um triângulo retângulo em que o ângulo x é agudo e cos x = 15/17. Quais são os valores de sen x e tg x, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "8/17 e 15/8"
+            },
+            {
+                "label": "B)",
+                "value": "17/8 e 8/15"
+            },
+            {
+                "label": "C)",
+                "value": "15/17 e 15/8"
+            },
+            {
+                "label": "D)",
+                "value": "8/17 e 8/15"
+            },
+            {
+                "label": "E)",
+                "value": "8/17 e 17/15"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "A hipotenusa é 17. Considere usar Pitágoras para encontrar o cateto oposto."
+    },
+    {
+        "text": "Sabendo que em um triângulo retângulo, o ângulo θ é agudo e sen θ = 7/25. Quais são os valores de cos θ e tg θ, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "24/25 e 7/24"
+            },
+            {
+                "label": "B)",
+                "value": "25/24 e 24/7"
+            },
+            {
+                "label": "C)",
+                "value": "24/7 e 25/24"
+            },
+            {
+                "label": "D)",
+                "value": "7/24 e 25/7"
+            },
+            {
+                "label": "E)",
+                "value": "7/25 e 24/25"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Use o teorema de Pitágoras com hipotenusa 25 para encontrar o cateto adjacente que é 24."
+    },
+    {
+        "text": "Em um triângulo retângulo, x é um ângulo agudo e tg x = 3/4. Quais são os valores de sen x e cos x, respectivamente?",
+        "options": [
+            {
+                "label": "A)",
+                "value": "3/5 e 4/5"
+            },
+            {
+                "label": "B)",
+                "value": "5/4 e 3/5"
+            },
+            {
+                "label": "C)",
+                "value": "4/3 e 5/3"
+            },
+            {
+                "label": "D)",
+                "value": "3/4 e 5/4"
+            },
+            {
+                "label": "E)",
+                "value": "3/5 e 5/4"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Aplique o teorema de Pitágoras para encontrar a hipotenusa e então determinar sen x e cos x."
+    },
+    {
+        "text": "Considere um triângulo retângulo com catetos medindo 6 cm e 8 cm. Determine a hipotenusa do triângulo.",
+        "options": [
+            {
+                "label": "a) 10 cm",
+                "value": "10 cm"
+            },
+            {
+                "label": "b) 9 cm",
+                "value": "9 cm"
+            },
+            {
+                "label": "c) 12 cm",
+                "value": "12 cm"
+            },
+            {
+                "label": "d) 14 cm",
+                "value": "14 cm"
+            },
+            {
+                "label": "e) 15 cm",
+                "value": "15 cm"
+            }
+        ],
+        "correct_answer": "10 cm",
+        "tip": "Utilize o teorema de Pitágoras: a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa."
+    },
+    {
+        "text": "Em um triângulo retângulo, os catetos medem 9 cm e 12 cm. Qual é a medida da hipotenusa?",
+        "options": [
+            {
+                "label": "a) 15 cm",
+                "value": "15 cm"
+            },
+            {
+                "label": "b) 18 cm",
+                "value": "18 cm"
+            },
+            {
+                "label": "c) 21 cm",
+                "value": "21 cm"
+            },
+            {
+                "label": "d) 14 cm",
+                "value": "14 cm"
+            },
+            {
+                "label": "e) 22 cm",
+                "value": "22 cm"
+            }
+        ],
+        "correct_answer": "15 cm",
+        "tip": "Lembre-se de que a hipotenusa é calculada através da raiz quadrada da soma dos quadrados dos catetos."
+    },
+    {
+        "text": "Um triângulo retângulo tem catetos medindo 5 cm e 12 cm. Determine a hipotenusa desse triângulo.",
+        "options": [
+            {
+                "label": "a) 13 cm",
+                "value": "13 cm"
+            },
+            {
+                "label": "b) 14 cm",
+                "value": "14 cm"
+            },
+            {
+                "label": "c) 15 cm",
+                "value": "15 cm"
+            },
+            {
+                "label": "d) 16 cm",
+                "value": "16 cm"
+            },
+            {
+                "label": "e) 17 cm",
+                "value": "17 cm"
+            }
+        ],
+        "correct_answer": "13 cm",
+        "tip": "Aplicar o teorema de Pitágoras pode ajudar na solução desta questão."
+    },
+    {
+        "text": "No triângulo retângulo, os catetos são de 7 cm e 24 cm. Calcule a hipotenusa.",
+        "options": [
+            {
+                "label": "a) 25 cm",
+                "value": "25 cm"
+            },
+            {
+                "label": "b) 24 cm",
+                "value": "24 cm"
+            },
+            {
+                "label": "c) 23 cm",
+                "value": "23 cm"
+            },
+            {
+                "label": "d) 26 cm",
+                "value": "26 cm"
+            },
+            {
+                "label": "e) 28 cm",
+                "value": "28 cm"
+            }
+        ],
+        "correct_answer": "25 cm",
+        "tip": "Use a fórmula c² = a² + b², onde c é a hipotenusa, para encontrar a resposta."
+    },
+    {
+        "text": "Dado um triângulo retângulo com catetos de 8 cm e 15 cm, encontre a hipotenusa.",
+        "options": [
+            {
+                "label": "a) 17 cm",
+                "value": "17 cm"
+            },
+            {
+                "label": "b) 19 cm",
+                "value": "19 cm"
+            },
+            {
+                "label": "c) 20 cm",
+                "value": "20 cm"
+            },
+            {
+                "label": "d) 21 cm",
+                "value": "21 cm"
+            },
+            {
+                "label": "e) 22 cm",
+                "value": "22 cm"
+            }
+        ],
+        "correct_answer": "17 cm",
+        "tip": "Teorema de Pitágoras é essencial para resolver problemas envolvendo hipotenusas."
+    },
+    {
+        "text": "Calcule a hipotenusa de um triângulo retângulo cujos catetos são 3 cm e 4 cm.",
+        "options": [
+            {
+                "label": "a) 5 cm",
+                "value": "5 cm"
+            },
+            {
+                "label": "b) 6 cm",
+                "value": "6 cm"
+            },
+            {
+                "label": "c) 7 cm",
+                "value": "7 cm"
+            },
+            {
+                "label": "d) 8 cm",
+                "value": "8 cm"
+            },
+            {
+                "label": "e) 9 cm",
+                "value": "9 cm"
+            }
+        ],
+        "correct_answer": "5 cm",
+        "tip": "Esta combinação de medidas é um clássico exemplo das proporções pitagóricas."
+    },
+    {
+        "text": "Considere um triângulo retângulo com catetos de medidas 9 cm e 40 cm. Qual é a hipotenusa?",
+        "options": [
+            {
+                "label": "a) 41 cm",
+                "value": "41 cm"
+            },
+            {
+                "label": "b) 42 cm",
+                "value": "42 cm"
+            },
+            {
+                "label": "c) 43 cm",
+                "value": "43 cm"
+            },
+            {
+                "label": "d) 44 cm",
+                "value": "44 cm"
+            },
+            {
+                "label": "e) 45 cm",
+                "value": "45 cm"
+            }
+        ],
+        "correct_answer": "41 cm",
+        "tip": "Aplique o teorema que envolve quadrados dos catetos para obter a resposta correta."
+    },
+    {
+        "text": "Determine a hipotenusa de um triângulo retângulo com catetos de 11 cm e 60 cm.",
+        "options": [
+            {
+                "label": "a) 61 cm",
+                "value": "61 cm"
+            },
+            {
+                "label": "b) 62 cm",
+                "value": "62 cm"
+            },
+            {
+                "label": "c) 63 cm",
+                "value": "63 cm"
+            },
+            {
+                "label": "d) 64 cm",
+                "value": "64 cm"
+            },
+            {
+                "label": "e) 65 cm",
+                "value": "65 cm"
+            }
+        ],
+        "correct_answer": "61 cm",
+        "tip": "Tenha em mente que a relação entre catetos e hipotenusa segue sempre o teorema de Pitágoras."
+    },
+    {
+        "text": "Em um triângulo retângulo, se os catetos medem 20 cm e 21 cm, qual será a hipotenusa?",
+        "options": [
+            {
+                "label": "a) 29 cm",
+                "value": "29 cm"
+            },
+            {
+                "label": "b) 28 cm",
+                "value": "28 cm"
+            },
+            {
+                "label": "c) 27 cm",
+                "value": "27 cm"
+            },
+            {
+                "label": "d) 26 cm",
+                "value": "26 cm"
+            },
+            {
+                "label": "e) 25 cm",
+                "value": "25 cm"
+            }
+        ],
+        "correct_answer": "29 cm",
+        "tip": "Calcular a soma dos quadrados dos catetos é fundamental para encontrar a hipotenusa."
+    },
+    {
+        "text": "No triângulo retângulo cujos catetos medem 12 cm e 35 cm, encontre a hipotenusa.",
+        "options": [
+            {
+                "label": "a) 37 cm",
+                "value": "37 cm"
+            },
+            {
+                "label": "b) 38 cm",
+                "value": "38 cm"
+            },
+            {
+                "label": "c) 39 cm",
+                "value": "39 cm"
+            },
+            {
+                "label": "d) 40 cm",
+                "value": "40 cm"
+            },
+            {
+                "label": "e) 41 cm",
+                "value": "41 cm"
+            }
+        ],
+        "correct_answer": "37 cm",
+        "tip": "O conhecimento do teorema de Pitágoras é necessário para resolver este tipo de problema."
+    },
+    {
+        "text": "Se os catetos de um triângulo retângulo medem 3b e 4b, então a tangente do ângulo oposto ao cateto maior é:",
+        "options": [
+            {
+                "label": "A) \\frac{3}{4}",
+                "value": "3/4"
+            },
+            {
+                "label": "B) \\frac{4}{3}",
+                "value": "4/3"
+            },
+            {
+                "label": "C) \\frac{3}{5}",
+                "value": "3/5"
+            },
+            {
+                "label": "D) \\frac{4}{5}",
+                "value": "4/5"
+            },
+            {
+                "label": "E) \\frac{5}{3}",
+                "value": "5/3"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "A tangente é calculada pela divisão do cateto oposto pelo cateto adjacente."
+    },
+    {
+        "text": "Em um triângulo retângulo, se a hipotenusa mede 13c e um dos catetos mede 5c, então a tangente do ângulo oposto ao cateto desconhecido é:",
+        "options": [
+            {
+                "label": "A) \\frac{12}{5}",
+                "value": "12/5"
+            },
+            {
+                "label": "B) \\frac{5}{12}",
+                "value": "5/12"
+            },
+            {
+                "label": "C) \\frac{12}{13}",
+                "value": "12/13"
+            },
+            {
+                "label": "D) \\frac{5}{13}",
+                "value": "5/13"
+            },
+            {
+                "label": "E) \\frac{13}{5}",
+                "value": "13/5"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Utilize o teorema de Pitágoras para encontrar o cateto desconhecido antes de calcular a tangente."
+    },
+    {
+        "text": "Para um triângulo retângulo onde a hipotenusa vale 5d e um dos catetos vale 3d, a tangente do ângulo oposto ao cateto menor é:",
+        "options": [
+            {
+                "label": "A) \\frac{3}{4}",
+                "value": "3/4"
+            },
+            {
+                "label": "B) \\frac{4}{3}",
+                "value": "4/3"
+            },
+            {
+                "label": "C) \\frac{4}{5}",
+                "value": "4/5"
+            },
+            {
+                "label": "D) \\frac{3}{5}",
+                "value": "3/5"
+            },
+            {
+                "label": "E) \\frac{5}{4}",
+                "value": "5/4"
+            }
+        ],
+        "correct_answer": "C",
+        "tip": "Lembre-se de que a tangente é a razão do cateto oposto sobre o adjacente."
+    },
+    {
+        "text": "Em um triângulo retângulo, se um cateto mede 7e e a hipotenusa mede 25e, calcule a tangente do ângulo oposto ao cateto:",
+        "options": [
+            {
+                "label": "A) \\frac{7}{24}",
+                "value": "7/24"
+            },
+            {
+                "label": "B) \\frac{24}{7}",
+                "value": "24/7"
+            },
+            {
+                "label": "C) \\frac{25}{7}",
+                "value": "25/7"
+            },
+            {
+                "label": "D) \\frac{7}{25}",
+                "value": "7/25"
+            },
+            {
+                "label": "E) \\frac{24}{25}",
+                "value": "24/25"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Primeiro, encontre o cateto desconhecido usando o teorema de Pitágoras."
+    },
+    {
+        "text": "Dado um triângulo retângulo onde a hipotenusa tem comprimento 10f e um cateto mede 6f, determine a tangente do ângulo oposto ao outro cateto:",
+        "options": [
+            {
+                "label": "A) \\frac{6}{8}",
+                "value": "6/8"
+            },
+            {
+                "label": "B) \\frac{8}{6}",
+                "value": "8/6"
+            },
+            {
+                "label": "C) \\frac{3}{5}",
+                "value": "3/5"
+            },
+            {
+                "label": "D) \\frac{4}{5}",
+                "value": "4/5"
+            },
+            {
+                "label": "E) \\frac{5}{3}",
+                "value": "5/3"
+            }
+        ],
+        "correct_answer": "B",
+        "tip": "A tangente é a relação entre o cateto oposto e o cateto adjacente."
+    },
+    {
+        "text": "Num triângulo retângulo, se os catetos medem 8g e 15g, qual é a tangente do ângulo oposto ao cateto maior?",
+        "options": [
+            {
+                "label": "A) \\frac{8}{15}",
+                "value": "8/15"
+            },
+            {
+                "label": "B) \\frac{15}{8}",
+                "value": "15/8"
+            },
+            {
+                "label": "C) \\frac{8}{17}",
+                "value": "8/17"
+            },
+            {
+                "label": "D) \\frac{15}{17}",
+                "value": "15/17"
+            },
+            {
+                "label": "E) \\frac{17}{8}",
+                "value": "17/8"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Lembre-se de calcular a tangente como cateto oposto sobre cateto adjacente."
+    },
+    {
+        "text": "Considere um triângulo retângulo com hipotenusa 17h e cateto 8h, a tangente do ângulo \noposto ao cateto desconhecido é:",
+        "options": [
+            {
+                "label": "A) \\frac{15}{8}",
+                "value": "15/8"
+            },
+            {
+                "label": "B) \\frac{8}{15}",
+                "value": "8/15"
+            },
+            {
+                "label": "C) \\frac{17}{8}",
+                "value": "17/8"
+            },
+            {
+                "label": "D) \\frac{8}{17}",
+                "value": "8/17"
+            },
+            {
+                "label": "E) \\frac{15}{17}",
+                "value": "15/17"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Calcule o outro cateto usando o teorema de Pitágoras antes de encontrar a tangente."
+    },
+    {
+        "text": "Se em um triângulo retângulo um cateto tem 9i e a hipotenusa mede 41i, então a tangente do ângulo oposto ao cateto 9i é:",
+        "options": [
+            {
+                "label": "A) \\frac{9}{40}",
+                "value": "9/40"
+            },
+            {
+                "label": "B) \\frac{40}{9}",
+                "value": "40/9"
+            },
+            {
+                "label": "C) \\frac{9}{41}",
+                "value": "9/41"
+            },
+            {
+                "label": "D) \\frac{40}{41}",
+                "value": "40/41"
+            },
+            {
+                "label": "E) \\frac{41}{9}",
+                "value": "41/9"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Encontre o outro cateto usando o teorema de Pitágoras para obter a tangente corretamente."
+    },
+    {
+        "text": "Em um triângulo retângulo com hipotenusa de 26j e um cateto de 10j, a tangente do ângulo oposto ao cateto desconhecido é:",
+        "options": [
+            {
+                "label": "A) \\frac{12}{5}",
+                "value": "12/5"
+            },
+            {
+                "label": "B) \\frac{5}{12}",
+                "value": "5/12"
+            },
+            {
+                "label": "C) \\frac{10}{24}",
+                "value": "10/24"
+            },
+            {
+                "label": "D) \\frac{24}{10}",
+                "value": "24/10"
+            },
+            {
+                "label": "E) \\frac{26}{5}",
+                "value": "26/5"
+            }
+        ],
+        "correct_answer": "D",
+        "tip": "Utilize o teorema de Pitágoras para calcular o cateto desconhecido antes de usar a tangente."
+    },
+    {
+        "text": "Se em um triângulo retângulo a hipotenusa mede 29k e um dos catetos mede 21k, determine a tangente do ângulo oposto ao cateto menor:",
+        "options": [
+            {
+                "label": "A) \\frac{21}{20}",
+                "value": "21/20"
+            },
+            {
+                "label": "B) \\frac{20}{21}",
+                "value": "20/21"
+            },
+            {
+                "label": "C) \\frac{20}{29}",
+                "value": "20/29"
+            },
+            {
+                "label": "D) \\frac{21}{29}",
+                "value": "21/29"
+            },
+            {
+                "label": "E) \\frac{29}{20}",
+                "value": "29/20"
+            }
+        ],
+        "correct_answer": "B",
+        "tip": "Lembre-se de que a tangente é o cateto oposto dividido pelo cateto adjacente."
+    },
+    {
+        "text": "Em um triângulo retângulo, a cotangente de um de seus ângulos agudos é \\( \\frac{1}{3} \\). Sabendo-se que a hipotenusa desse triângulo é 10, o valor do cosseno desse mesmo ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{\\sqrt{90}}{10} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{3\\sqrt{10}}{10} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{\\sqrt{10}}{10} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{3}{10} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{1}{10} \\)"
+            }
+        ],
+        "correct_answer": "B)",
+        "tip": "Use a identidade trigonométrica cotangente \\( \\theta = \\frac{1}{\\tan \\theta} \\) e o teorema de Pitágoras para encontrar o valor desejado."
+    },
+    {
+        "text": "Em um triângulo retângulo, a secante de um dos ângulos agudos é \\( \\frac{5}{3} \\). Sabendo-se que a hipotenusa do triângulo é 6, o valor do seno desse mesmo ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{3\\sqrt{11}}{6} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{3}{6} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{\\sqrt{11}}{6} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{4}{6} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{3\\sqrt{2}}{6} \\)"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Converta a secante em cosseno para calcular o cateto, depois use o teorema de Pitágoras."
+    },
+    {
+        "text": "Em um triângulo retângulo, a cosecante de um dos ângulos agudos é \\( \\frac{5}{4} \\). Sabendo-se que a hipotenusa mede 5, o valor do cosseno desse ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{3}{5} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{4}{5} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{3}{4} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{4}{3} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{\\sqrt{3}}{4} \\)"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Lembre-se que a cosecante é a inversa do seno e utilize o teorema de Pitágoras."
+    },
+    {
+        "text": "Em um triângulo retângulo, a tangente de um dos ângulos agudos é \\( \\frac{4}{3} \\). Se a hipotenusa do triângulo é 10, o valor do seno desse ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{4}{5} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{3}{5} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{5}{10} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{\\sqrt{3}}{10} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{8}{10} \\)"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Use a identidade da tangente e o teorema de Pitágoras para encontrar o valor do cateto oposto."
+    },
+    {
+        "text": "Em um triângulo retângulo, a cotangente de um dos ângulos agudos é \\( \\frac{3}{2} \\). Sabendo-se que a hipotenusa do triângulo é 13, o valor do seno desse ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{3}{5} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{4}{5} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{12}{13} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{5}{13} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{10}{13} \\)"
+            }
+        ],
+        "correct_answer": "E)",
+        "tip": "Converta a cotangente para obter a tangente e depois use o teorema de Pitágoras para o cateto oposto."
+    },
+    {
+        "text": "Em um triângulo retângulo, a secante de um dos ângulos agudos é \\( \\frac{13}{12} \\). Sabendo-se que a hipotenusa do triângulo é 15, o valor do cosseno desse ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{12}{13} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{13}{15} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{3}{12} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{5}{13} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{12}{15} \\)"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Lembre-se que a secante é o inverso do cosseno."
+    },
+    {
+        "text": "Em um triângulo retângulo, a tangente de um dos ângulos agudos é \\( \\frac{5}{12} \\). Se a hipotenusa do triângulo é 13, o valor do cosseno desse ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{12}{13} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{5}{13} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{\\sqrt{119}}{13} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{13}{5} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{\\sqrt{5}}{13} \\)"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Use a razão da tangente para encontrar o cálculo do cateto adjacente e verifique com o teorema de Pitágoras."
+    },
+    {
+        "text": "Em um triângulo retângulo, a cosecante de um dos ângulos agudos é \\( \\frac{13}{5} \\). Sabendo-se que a hipotenusa mede 13, o valor do seno desse ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{5}{13} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{12}{13} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{13}{5} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{5}{12} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{\\sqrt{13}}{5} \\)"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "A cosecante é a inversa do seno. Use essa relação para encontrar o valor correto."
+    },
+    {
+        "text": "Em um triângulo retângulo, a secante de um dos ângulos agudos é \\( \\frac{10}{8} \\). Sabendo-se que a hipotenusa do triângulo é 6, o valor do cosseno desse ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{8}{10} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{4}{5} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{3}{5} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{6}{10} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{8}{10} \\)"
+            }
+        ],
+        "correct_answer": "B)",
+        "tip": "A secante é o inverso do cosseno, facilitando encontrar o valor correto."
+    },
+    {
+        "text": "Em um triângulo retângulo, a tangente de um dos ângulos agudos é \\( \\frac{7}{24} \\). Se a hipotenusa do triângulo é de 25, o valor do cosseno desse ângulo é:",
+        "options": [
+            {
+                "label": "A)",
+                "value": "\\( \\frac{24}{25} \\)"
+            },
+            {
+                "label": "B)",
+                "value": "\\( \\frac{7}{25} \\)"
+            },
+            {
+                "label": "C)",
+                "value": "\\( \\frac{\\sqrt{576}}{25} \\)"
+            },
+            {
+                "label": "D)",
+                "value": "\\( \\frac{14}{25} \\)"
+            },
+            {
+                "label": "E)",
+                "value": "\\( \\frac{25}{7} \\)"
+            }
+        ],
+        "correct_answer": "A)",
+        "tip": "Use a razão do ângulo para calcular o cateto adjacente e aplique o teorema de Pitágoras."
+    },
+    {
+        "text": "Uma passarela é construída ligando dois vértices opostos de um campo retangular com dimensões de 40 m e 30 m. Qual o valor do cosseno do ângulo formado entre a passarela e o lado menor do campo?",
+        "options": [
+            {
+                "label": "A",
+                "value": "3/5"
+            },
+            {
+                "label": "B",
+                "value": "4/5"
+            },
+            {
+                "label": "C",
+                "value": "1/5"
+            },
+            {
+                "label": "D",
+                "value": "2/5"
+            },
+            {
+                "label": "E",
+                "value": "5/4"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Lembre-se de que o cosseno do ângulo é o cateto adjacente dividido pela hipotenusa."
+    },
+    {
+        "text": "Para melhorar a drenagem de um lote de 60 m por 45 m, foi instalado um tubo que liga vértices opostos do lote. Qual a razão entre a hipotenusa e o lado de maior medida do lote?",
+        "options": [
+            {
+                "label": "A",
+                "value": "4/5"
+            },
+            {
+                "label": "B",
+                "value": "3/4"
+            },
+            {
+                "label": "C",
+                "value": "5/9"
+            },
+            {
+                "label": "D",
+                "value": "7/9"
+            },
+            {
+                "label": "E",
+                "value": "8/10"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Considere o triângulo retângulo formado pela diagonal e os lados do lote."
+    },
+    {
+        "text": "Uma ponte é construída sobre um rio de largura 50 m e comprimento 120 m, ligando dois vértices opostos. Determine o valor do seno do ângulo formado entre a ponte e o lado de comprimento maior.",
+        "options": [
+            {
+                "label": "A",
+                "value": "1/3"
+            },
+            {
+                "label": "B",
+                "value": "3/13"
+            },
+            {
+                "label": "C",
+                "value": "5/13"
+            },
+            {
+                "label": "D",
+                "value": "12/13"
+            },
+            {
+                "label": "E",
+                "value": "13/5"
+            }
+        ],
+        "correct_answer": "C",
+        "tip": "O seno é a razão entre o cateto oposto e a hipotenusa."
+    },
+    {
+        "text": "Em um parque retangular de 36 m x 48 m, é instalado um cabo do vértice superior esquerdo ao vértice inferior direito. Calcule o valor do cosseno do ângulo entre o cabo e o lado maior do terreno.",
+        "options": [
+            {
+                "label": "A",
+                "value": "3/5"
+            },
+            {
+                "label": "B",
+                "value": "4/5"
+            },
+            {
+                "label": "C",
+                "value": "5/3"
+            },
+            {
+                "label": "D",
+                "value": "5/4"
+            },
+            {
+                "label": "E",
+                "value": "7/8"
+            }
+        ],
+        "correct_answer": "B",
+        "tip": "Relembre que cosseno é cateto adjacente sobre hipotenusa."
+    },
+    {
+        "text": "Em um campo de futebol com dimensões 64 m e 48 m, instala-se um sistema de irrigação em formato de tubo que atravessa diagonalmente o campo. Qual a tangente do ângulo que o tubo faz com o lado menor do campo?",
+        "options": [
+            {
+                "label": "A",
+                "value": "3/4"
+            },
+            {
+                "label": "B",
+                "value": "4/3"
+            },
+            {
+                "label": "C",
+                "value": "3/5"
+            },
+            {
+                "label": "D",
+                "value": "5/4"
+            },
+            {
+                "label": "E",
+                "value": "5/3"
+            }
+        ],
+        "correct_answer": "B",
+        "tip": "Tangente do ângulo é a razão entre o cateto oposto e o cateto adjacente."
+    },
+    {
+        "text": "Um telhado triangular é construído com um lado retangular de 28 m por 21 m e usa uma viga que atravessa o triângulo pela diagonal. Qual a razão entre a hipotenusa e o lado maior do telhado?",
+        "options": [
+            {
+                "label": "A",
+                "value": "2/3"
+            },
+            {
+                "label": "B",
+                "value": "5/6"
+            },
+            {
+                "label": "C",
+                "value": "3/4"
+            },
+            {
+                "label": "D",
+                "value": "7/10"
+            },
+            {
+                "label": "E",
+                "value": "4/5"
+            }
+        ],
+        "correct_answer": "E",
+        "tip": "Considere o triângulo retângulo formado e relacione hipotenusa e catetos."
+    },
+    {
+        "text": "Em um estacionamento retangular de 50 m x 20 m, foi instalada uma linha de energia que atravessa diagonalmente o terreno. Determine o valor do seno do ângulo entre a linha e o lado maior do estacionamento.",
+        "options": [
+            {
+                "label": "A",
+                "value": "2/5"
+            },
+            {
+                "label": "B",
+                "value": "3/7"
+            },
+            {
+                "label": "C",
+                "value": "5/6"
+            },
+            {
+                "label": "D",
+                "value": "4/5"
+            },
+            {
+                "label": "E",
+                "value": "1/3"
+            }
+        ],
+        "correct_answer": "E",
+        "tip": "Seno do ângulo é a razão do cateto oposto pela hipotenusa."
+    },
+    {
+        "text": "Durante a construção de um campo de futebol retangular de dimensões 80 m e 60 m, a diagonal foi utilizada como referência. Qual o valor do cosseno do ângulo formado entre a diagonal e o lado maior?",
+        "options": [
+            {
+                "label": "A",
+                "value": "1/5"
+            },
+            {
+                "label": "B",
+                "value": "3/4"
+            },
+            {
+                "label": "C",
+                "value": "4/5"
+            },
+            {
+                "label": "D",
+                "value": "5/6"
+            },
+            {
+                "label": "E",
+                "value": "5/8"
+            }
+        ],
+        "correct_answer": "C",
+        "tip": "Faça uso da definição de cosseno em um triângulo retângulo."
+    },
+    {
+        "text": "Um gramado retangular de 90 m por 30 m possui uma trilha em linha reta, ligando dois vértices opostos. Calcule a tangente do ângulo formado entre a trilha e o lado menor do gramado.",
+        "options": [
+            {
+                "label": "A",
+                "value": "3/10"
+            },
+            {
+                "label": "B",
+                "value": "1/3"
+            },
+            {
+                "label": "C",
+                "value": "7/10"
+            },
+            {
+                "label": "D",
+                "value": "9/10"
+            },
+            {
+                "label": "E",
+                "value": "2/3"
+            }
+        ],
+        "correct_answer": "B",
+        "tip": "Tangente é a relação entre cateto oposto e cateto adjacente."
+    },
+    {
+        "text": "Um carpinteiro decidiu passar um fio através de um terreno retangular de medidas 18 m e 24 m unindo dois vértices opostos. Qual a razão entre o fio e o lado de menor medida?",
+        "options": [
+            {
+                "label": "A",
+                "value": "4/5"
+            },
+            {
+                "label": "B",
+                "value": "3/2"
+            },
+            {
+                "label": "C",
+                "value": "5/3"
+            },
+            {
+                "label": "D",
+                "value": "5/4"
+            },
+            {
+                "label": "E",
+                "value": "6/5"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Calcule a hipotenusa usando o Teorema de Pitágoras primeiro."
+    },
+    {
+        "text": "Um avião parte do ponto X e voa 30 km em linha reta até o ponto Y, formando um ângulo de 30° com a linha reta que liga o ponto X a um ponto Z distante 20 km de X. Qual é a distância do ponto Y até Z, em linha reta, em quilômetros?",
+        "options": [
+            {
+                "label": "A",
+                "value": "15√3 km"
+            },
+            {
+                "label": "B",
+                "value": "10√3 km"
+            },
+            {
+                "label": "C",
+                "value": "20√3 km"
+            },
+            {
+                "label": "D",
+                "value": "25√3 km"
+            },
+            {
+                "label": "E",
+                "value": "35√3 km"
+            }
+        ],
+        "correct_answer": "B",
+        "tip": "Utilize as propriedades dos triângulos notáveis e identifique as relações entre os lados do triângulo em questão."
+    },
+    {
+        "text": "Um paralelepípedo retângulo tem base quadrada e mede 10 cm de altura. Um ponto P está sobre um lado da base e equidista das duas diagonais da base. Qual é a distância do ponto P ao vértice superior oposto do paralelepípedo?",
+        "options": [
+            {
+                "label": "A",
+                "value": "√104 cm"
+            },
+            {
+                "label": "B",
+                "value": "√100 cm"
+            },
+            {
+                "label": "C",
+                "value": "√95 cm"
+            },
+            {
+                "label": "D",
+                "value": "√85 cm"
+            },
+            {
+                "label": "E",
+                "value": "√75 cm"
+            }
+        ],
+        "correct_answer": "B",
+        "tip": "Considere a propriedade da base quadrada e aplique o teorema de Pitágoras nas diagonais e altura."
+    },
+    {
+        "text": "Uma linha férrea retilínea A está a 5 km de uma estação, formando um ângulo de 60° com a linha férrea retilínea B. Um trilho C, perpendicular a B, parte da estação. Qual é a distância da estação até a linha férrea A através do trilho C, em quilômetros?",
+        "options": [
+            {
+                "label": "A",
+                "value": "5√3 km"
+            },
+            {
+                "label": "B",
+                "value": "2.5 km"
+            },
+            {
+                "label": "C",
+                "value": "5/√3 km"
+            },
+            {
+                "label": "D",
+                "value": "5 km"
+            },
+            {
+                "label": "E",
+                "value": "5/2 km"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Desenhe o triângulo formado e use a relação das projeções para calcular a distância."
+    },
+    {
+        "text": "Uma montanha possui uma inclinação de 30° em relação ao solo plano. Um túnel é cavado perpendicularmente ao solo plano, atravessando a montanha. Se a base do túnel inicia a 3 km do topo, qual é o comprimento do túnel perfurado?",
+        "options": [
+            {
+                "label": "A",
+                "value": "6 km"
+            },
+            {
+                "label": "B",
+                "value": "3√3 km"
+            },
+            {
+                "label": "C",
+                "value": "9 km"
+            },
+            {
+                "label": "D",
+                "value": "3 km"
+            },
+            {
+                "label": "E",
+                "value": "3/2 km"
+            }
+        ],
+        "correct_answer": "B",
+        "tip": "Considere a relação dos ângulos na projeção ortogonal para calcular o comprimento necessário."
+    },
+    {
+        "text": "Um rio flui em linha reta entre duas cidades A e B, distantes 12 km uma da outra. Uma ponte reta é introduzida perpendicularmente ao fluxo, a 3 km de A. Qual é a distância total do fluxo de água percorrida pela ponte?",
+        "options": [
+            {
+                "label": "A",
+                "value": "6 km"
+            },
+            {
+                "label": "B",
+                "value": "8 km"
+            },
+            {
+                "label": "C",
+                "value": "5 km"
+            },
+            {
+                "label": "D",
+                "value": "9 km"
+            },
+            {
+                "label": "E",
+                "value": "4 km"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Desenhe o triângulo formado pela ponte e os caminhos fornecidos, aplicando propriedades geométricas."
+    },
+    {
+        "text": "Uma avenida linear A encontra o começo de outra avenida B em um ângulo de 120°. Há uma pista C perpendicular a A que corta a avenida B a 6 km do ponto de início de B. Qual é a distância entre o ponto de interseção e o ponto no final da avenida A, dado que A tem 5 km de comprimento?",
+        "options": [
+            {
+                "label": "A",
+                "value": "5√3 km"
+            },
+            {
+                "label": "B",
+                "value": "7 km"
+            },
+            {
+                "label": "C",
+                "value": "3 km"
+            },
+            {
+                "label": "D",
+                "value": "5 km"
+            },
+            {
+                "label": "E",
+                "value": "3√3 km"
+            }
+        ],
+        "correct_answer": "E",
+        "tip": "Utilize relações trigonométricas e as propriedades dos ângulos formados para determinar a distância do ponto."
+    },
+    {
+        "text": "Um grupo de árvores forma um ângulo de 45° ao longo de uma colina de 5 km. Uma trilha projetada paralela à base da colina é perpendicular à linha das árvores, partindo do pé da colina. Qual é a extensão total da trilha percorrida entre a base e o pico das árvores?",
+        "options": [
+            {
+                "label": "A",
+                "value": "5√2 km"
+            },
+            {
+                "label": "B",
+                "value": "5/√2 km"
+            },
+            {
+                "label": "C",
+                "value": "10 km"
+            },
+            {
+                "label": "D",
+                "value": "5 km"
+            },
+            {
+                "label": "E",
+                "value": "2.5 km"
+            }
+        ],
+        "correct_answer": "D",
+        "tip": "Use as definições de ângulos complementares e relações entre os lados do triângulo."
+    },
+    {
+        "text": "Dois postes de eletricidade estão 8 km afastados, com fio retilíneo entre eles formando um ângulo de 37°. Se um fio auxiliar sai perpendicularmente do primeiro poste, qual é a distância horizontal deste fio até interceptar a linha administrada ao segundo poste?",
+        "options": [
+            {
+                "label": "A",
+                "value": "6 km"
+            },
+            {
+                "label": "B",
+                "value": "8 km"
+            },
+            {
+                "label": "C",
+                "value": "10 km"
+            },
+            {
+                "label": "D",
+                "value": "4 km"
+            },
+            {
+                "label": "E",
+                "value": "5 km"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Projete a situação em um plano cartesiano e aplique relações geométricas para encontrar a distância correta."
+    },
+    {
+        "text": "Uma ponte de 200 m atravessa um rio em um ângulo de 60° com a margem. Há um caminho paralelo à margem que intercepta a ponte no meio. Qual é a altura da margem ao ponto médio da ponte?",
+        "options": [
+            {
+                "label": "A",
+                "value": "100 m"
+            },
+            {
+                "label": "B",
+                "value": "50 m"
+            },
+            {
+                "label": "C",
+                "value": "75 m"
+            },
+            {
+                "label": "D",
+                "value": "125 m"
+            },
+            {
+                "label": "E",
+                "value": "150 m"
+            }
+        ],
+        "correct_answer": "C",
+        "tip": "Projete o triângulo com a base e uso das relações trigonométricas para calcular a altura perpendicular."
+    },
+    {
+        "text": "Um navio navega da ilha X por 60 km em direção nordeste. Chegando no ponto Y, forma um triângulo retângulo com uma ilha Z que está 30 km ao leste de X. Qual é a distância em linha reta de Y até Z?",
+        "options": [
+            {
+                "label": "A",
+                "value": "30√2 km"
+            },
+            {
+                "label": "B",
+                "value": "30 km"
+            },
+            {
+                "label": "C",
+                "value": "60 km"
+            },
+            {
+                "label": "D",
+                "value": "90 km"
+            },
+            {
+                "label": "E",
+                "value": "45 km"
+            }
+        ],
+        "correct_answer": "A",
+        "tip": "Considere a condição do triângulo e a utilização do teorema de Pitágoras para obter sua solução."
+    }
+]
